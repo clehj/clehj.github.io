@@ -65,9 +65,9 @@ export default defineConfigWithTheme<ThemeConfig>({
   ],
   ignoreDeadLinks: true,
   // 生成站点地图
-  // sitemap: {
-  //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
-  // },
+   sitemap: {
+     hostname: 'https://clehj.github.io',
+   },
   title: "一只小猹",
   description: "一只小猹",
   themeConfig: {
