@@ -1,6 +1,6 @@
 ---
 title: 标题
-date: 日期
+date: 
 tags: [标签1, 标签2]
 pinned: false #文章置顶，默认false
 head:
