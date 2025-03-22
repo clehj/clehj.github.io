@@ -1,6 +1,6 @@
 ---
 title: 数学符号及读法大全
-date: 2025-03-16
+date: 2024-03-16
 tags: [数学, 符号, 读法]
 pinned: true
 head:
