@@ -83,9 +83,9 @@ export default defineConfigWithTheme<ThemeConfig>({
     welcomeText: '',
     motto: ['和你的日常，就是奇迹', '在平凡的日常中，发现一点点奇迹的故事','秉性而行，所欲随心'],
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
-      { icon: 'qq', url: 'https://im.qq.com/index/' },
+      { icon: 'github', url: 'https://github.com/clehj' },
+      { icon: 'bilibili', url: 'https://b23.tv/gwJtufi' },
+      { icon: 'qq', url: 'https://qm.qq.com/q/3smCEbq1gc' },
     ],
 
     //spine语音配置，可选zh/jp
