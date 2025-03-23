@@ -1,6 +1,6 @@
 ---
 title: 函数 y = Asin(ωx+φ) 图像与性质
-date: 2013-12-25
+date: 2025-1-25
 tags: [三角函数, 图像与性质]
 pinned: false
 head:
