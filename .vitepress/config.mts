@@ -81,7 +81,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     videoBanner: false,
     name: "一只小猹",
     welcomeText: '',
-    motto: ['和你的日常，就是奇迹', '在平凡的日常中，发现一点点奇迹的故事','秉性而行，所欲随心'],
+    motto: ['与你的日常，就是奇迹', '在平凡的日常中，发现一点点奇迹的故事','秉性而行，所欲随心'],
     social: [
       { icon: 'github', url: 'https://github.com/clehj' },
       { icon: 'bilibili', url: 'https://b23.tv/gwJtufi' },
