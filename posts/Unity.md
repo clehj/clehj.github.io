@@ -37,5 +37,3 @@ head:
   - **普通Note**：将`MOV R1, #X`修改为`MOV R1, #4`，使普通Note直接判定为`Perfect`。
   - **滑条Note（SlideNote）**：分析`SlideNoteManager`的判定函数，避免提前判定导致的体验问题，将关键的`MOV R1, #X`修改为`MOV R1, #4`。
 
-#### 4. 代码片段
-以下是部分关键代码的伪代码表示：
