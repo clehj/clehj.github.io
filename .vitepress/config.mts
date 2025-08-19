@@ -81,7 +81,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     videoBanner: false,
     name: "一只小猹",
     welcomeText: '',
-    motto: ['与你的日常，就是奇迹', '在平凡的日常中，发现一点点奇迹的故事','秉性而行，所欲随心'],
+    motto: ['与你的日常，就是奇迹', '在平凡的日常中，发现一点点奇迹的故事','ᕕ(◠ڼ◠)ᕗ'],
     social: [
       { icon: 'github', url: 'https://github.com/clehj' },
       { icon: 'bilibili', url: 'https://b23.tv/gwJtufi' },
@@ -99,11 +99,11 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //gitalk配置
-    clientID: '',
-    clientSecret: '',
-    repo: '',
-    owner: '',
-    admin: [''],
+    clientID: 'Ov23lik3g1HNZtJPYqBs',
+    clientSecret: 'c9def0e1bac55fdec60e858989ba4615f3561257',
+    repo: 'clehjblog',
+    owner: 'clehj',
+    admin: ['clehj'],
   },
   markdown: {
     theme: 'solarized-dark',
