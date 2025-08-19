@@ -75,6 +75,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     menuList: [
       { name: '首页', url: '' },
       { name: '标签', url: 'tags/' },
+      { name: '音乐', url: 'music/'}
     ],
 
     //banner区配置
